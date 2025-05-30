@@ -64,7 +64,7 @@ Follow all the standard step by step to create a Service
 
 ![image](https://github.com/user-attachments/assets/6cb08703-013b-406d-a52c-6cd1584d06bb)
 
-## NetWorkg
+## NetWorkig
 
 ![image](https://github.com/user-attachments/assets/45234274-f429-4a12-8186-8e1ad7ed56ea)
 
@@ -74,9 +74,12 @@ Follow all the standard step by step to create a Service
 
 
 # Test
-
+URL: http://52.86.174.145:8080/WeatherForecast
 ![image](https://github.com/user-attachments/assets/1d7ca59a-2af8-4c2c-95c7-f716e37b60b9)
 
+
+## Swagger
+Go to 
 
 # References
 
