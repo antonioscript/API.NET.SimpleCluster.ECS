@@ -32,7 +32,7 @@ aws ecr get-login-password | docker login --username AWS --password-stdin 637423
 
 
 ```
-docker tag book-manager 637423290521.dkr.ecr.us-east-1.amazonaws.com/ecs/simple-project
+docker tag simple-project 637423290521.dkr.ecr.us-east-1.amazonaws.com/ecs/simple-project
 ```
 
 ```
