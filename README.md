@@ -60,6 +60,24 @@ Follow all the standard step by step to create Task Definition
 ## Create a Service
 Follow all the standard step by step to create a Service
 
+## Tasks
+
+![image](https://github.com/user-attachments/assets/6cb08703-013b-406d-a52c-6cd1584d06bb)
+
+## NetWorkg
+
+![image](https://github.com/user-attachments/assets/45234274-f429-4a12-8186-8e1ad7ed56ea)
+
+![image](https://github.com/user-attachments/assets/1dc89ea3-85cd-412c-a587-6242035d287d)
+
+![image](https://github.com/user-attachments/assets/4c230736-19e1-4c50-a216-b879d4b32108)
+
+
+# Test
+
+![image](https://github.com/user-attachments/assets/1d7ca59a-2af8-4c2c-95c7-f716e37b60b9)
+
+
 # References
 
 ![image](https://github.com/user-attachments/assets/8d69fcb7-92d9-4e38-bd2c-417871df1459)
