@@ -16,7 +16,7 @@ A simple .NET API running as a single task in AWS ECS, ideal for lightweight wor
   - [Create a Task Definition](#create-a-task-definition)
   - [Create a Service](#create-a-service)
   - [Tasks](#tasks)
-  - [NetWorkig](#networkig)
+  - [NetWorking](#networking)
 - [Test](#test)
 - [Swagger](#swagger)
 - [References](#references)
@@ -86,7 +86,7 @@ Follow all the standard step by step to create a Service
 
 ![image](https://github.com/user-attachments/assets/6cb08703-013b-406d-a52c-6cd1584d06bb)
 
-## NetWorkig
+## NetWorking
 
 ![image](https://github.com/user-attachments/assets/45234274-f429-4a12-8186-8e1ad7ed56ea)
 
