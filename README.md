@@ -75,7 +75,7 @@ Follow all the standard step by step to create a Service
 
 # Test
 
-URL: http://52.86.174.145:8080/WeatherForecast
+- URL: http://52.86.174.145:8080/WeatherForecast
 
 ![image](https://github.com/user-attachments/assets/1d7ca59a-2af8-4c2c-95c7-f716e37b60b9)
 
@@ -86,6 +86,10 @@ Go to Task Definition and create a new version for Task Definition and add envri
 
 ![image](https://github.com/user-attachments/assets/f7c403ea-665d-445f-872b-b9a788391a93)
 
+</br>
+**Result**
+
+![image](https://github.com/user-attachments/assets/bec0160c-7042-4e0d-9307-d64fa76e13bf)
 
 
 
