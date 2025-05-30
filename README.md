@@ -81,7 +81,13 @@ URL: http://52.86.174.145:8080/WeatherForecast
 
 
 ## Swagger
-Go to 
+
+Go to Task Definition and create a new version for Task Definition and add envrioment variable for **"ASPNETCORE_ENVIRONMENT": "Development"**
+
+![image](https://github.com/user-attachments/assets/f7c403ea-665d-445f-872b-b9a788391a93)
+
+
+
 
 # References
 
